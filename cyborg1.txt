@@ -1,0 +1,15 @@
+cyborg1 -> cyborg1
+cyborg2 -> kansas
+cyborg3 -> 172.31.45.167_ipv4
+cyborg4 -> 88_objects
+cyborg5 -> bacon_eggs
+cyborg6 -> rowray_timer
+cyborg7 -> cybergeddon
+cyborg8 -> skynet
+cyborg9 -> 4
+cyborg10 -> onita99 
+cyborg11 -> terminated!99
+cyborg12 -> spaceballs
+cyborg13 -> ywa6_heart
+cyborg14 -> 22_days
+cyborg15 -> propshts_objects

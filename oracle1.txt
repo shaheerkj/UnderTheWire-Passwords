@@ -1,0 +1,15 @@
+oracle1 -> oracle1
+oracle2 -> utc
+oracle3 -> 2f5c4
+oracle4 -> 05/09/2017
+oracle5 -> alpha83
+oracle6 -> charlie1337
+oracle7 -> t-50_97
+oracle8 -> multiverse111
+oracle9 -> star-lord
+oracle10 -> utw_exch9229
+oracle11 -> yondu
+oracle12 -> m
+oracle13 -> 192.168.2.3
+oracle14 -> gamora88
+oracle15 -> nebula2112
