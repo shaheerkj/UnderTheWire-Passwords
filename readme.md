@@ -1,6 +1,21 @@
-# Under the Wire - Wargames
-UnderTheWire wargames are the windows equivalent of OverTheWire games.
-- This repository contains the passwords for all 5 levels of UTW wargames.
+# Under the Wire Wargames – Password Repository  
 
-# Walk-Through
-For a complete walkthrough and explanation of each level, read my articles on [medium](https://medium.com/@shaheerkj).
+**UnderTheWire** wargames are designed to help Information Technologists develop their **Windows PowerShell** skills through practical, scenario-based challenges.  
+
+This repository contains the **passwords** for all **five levels** of the UnderTheWire wargames, making it easier for players to progress through the challenges.  
+
+## 📜 About  
+UnderTheWire challenges focus on real-world situations where PowerShell is used for:  
+- System administration  
+- Automation  
+- Security and incident response  
+- Windows environment troubleshooting  
+
+## 🗂 Contents  
+- Passwords for Levels 1–5  
+- Verified and tested against the official wargames  
+
+## 📖 Walkthrough  
+For a detailed, step-by-step walkthrough and explanation of each level, read my full guide here:  
+[**Read on Medium**](https://medium.com/@shaheerkj)
+ 
